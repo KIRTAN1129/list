@@ -2,7 +2,7 @@
 list1 = list()
 
 # Declare a list with more than 5 items
-lst1 = ['motisons','doms','suzlon','trident','vedanta','mrf']
+lst1 = ['ITC','doms','HINDZINC','JPPOWER','vedanta','mrf']
 
 # Find the length of your list
 print(len(lst1))
@@ -20,11 +20,11 @@ lastitem = lst1[lastitem]
 print(lastitem)
 # Declare a list called mixed_data_types, put your(name, age, height, marital status, address)4
 mixed_data_types = {
-    "name":"manav",
-    "age":19,
-    "height":5.9,
+    "name":"kirtan",
+    "age":20,
+    "height":5.7,
     "marital status":"Single",
-    "address":"vadodara"
+    "address":"mehsana"
 }
 print(mixed_data_types)
 # Declare a list variable named it_companies and assign initial values Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon.
